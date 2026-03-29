@@ -13,6 +13,15 @@ This is a simple full-stack application that allows users to manage tasks and re
 - AI-based suggestions based on task category
 - Clean and responsive UI
 
+## Project Structure
+backend/
+  app.py
+  test_app.py
+  ai_rules.md
+
+frontend/
+  src/App.js
+  
 ## Architecture
 - REST API using Flask
 - React frontend consuming API
